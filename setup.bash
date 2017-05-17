@@ -1,5 +1,6 @@
 #!/bin/bash -xve
-#written h434
+#Written by HhHh434
+
 exec 2> /tmp/setup.log
 
 
