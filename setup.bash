@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-
+#written h434
 exec 2> /tmp/setup.log
 
 
